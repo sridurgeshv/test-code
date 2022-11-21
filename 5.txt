@@ -1,0 +1,13 @@
+1. fetch the data, check resources.
+2. seed urls,url frontend and have a dns resolver
+3. add a fetcher in internet and have a cache 
+4. link extractor then filter the url
+5. And set the url
+Design components:
+i. Input seed urls
+ii. Url Frontier
+iii.fetching data
+iv.dns resolver
+v.caching
+vi.content seen module
+vii.storage
